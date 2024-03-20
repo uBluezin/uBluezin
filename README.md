@@ -1,3 +1,4 @@
+@@ -0,0 +1,10 @@
  👋 Opa, Me chamo (@uBluezin)
 - 👀 Sou um jovem cheio de sonhos e objetivos
 - 🎮 Futuro GameDev
