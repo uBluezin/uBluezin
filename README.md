@@ -1,4 +1,4 @@
- 👋 Oi, Eu sou @uBluezin
+ 👋 Opa, Me chamo (@uBluezin)
 - 👀 Sou um jovem cheio de sonhos e objetivos
 - 🎮 Futuro GameDev
 - 🤝 Estou colaborando atualmente em nenhum projeto
